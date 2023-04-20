@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-ZkDVg_CjVA)
-- Live Site URL: [Live Site](https://singhfatehbir.github.io/intro-section-dropdown-nav-FEM/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/age-calculator-responsive-html-css-js-FbTDFIqfCJ)
+- Live Site URL: [Live Site](https://singhfatehbir.github.io/Age-Calculator-FEM/)
 
 ### Built with
 
