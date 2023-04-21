@@ -30,9 +30,9 @@ function setError(input, label, error, message) {
 // Add an click event listener to the calculate button
 calculateButton.addEventListener("click", function () {
   // Get the values of the user input
-  var day = parseInt(dayInput.value);
-  var month = parseInt(monthInput.value);
-  var year = parseInt(yearInput.value);
+  var day = dayInput.value;
+  var month = monthInput.value;
+  var year = yearInput.value;
 
   // Create a date object from the user input
   var birthDate = new Date(year + "-" + month + "-" + day); // Use a standard format
